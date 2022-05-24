@@ -1,1 +1,1 @@
-second directory readme
+my updated second directory readme
